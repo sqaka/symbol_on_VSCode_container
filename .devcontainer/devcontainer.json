@@ -1,0 +1,16 @@
+{
+    "name": "symbol",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+    },
+    "appPort": [
+        8000
+    ],
+    "remoteUser": "vscode",
+    "extensions": [
+        "leizongmin.node-module-intellisense",
+        "coenraads.bracket-pair-colorizer"
+    ]
+}
