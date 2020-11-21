@@ -11,6 +11,7 @@
     "remoteUser": "vscode",
     "extensions": [
         "leizongmin.node-module-intellisense",
+        "ms-azuretools.vscode-docker",
         "coenraads.bracket-pair-colorizer"
     ]
 }
